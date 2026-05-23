@@ -1,0 +1,11 @@
+D:\My_Workspace\WinForms\WindowsFormsTest\obj\Debug\WindowsFormsTest.csproj.AssemblyReference.cache
+D:\My_Workspace\WinForms\WindowsFormsTest\obj\Debug\BoutiqueHospitalityApp.Form1.resources
+D:\My_Workspace\WinForms\WindowsFormsTest\obj\Debug\WindowsFormsTest.Properties.Resources.resources
+D:\My_Workspace\WinForms\WindowsFormsTest\obj\Debug\WindowsFormsTest.csproj.GenerateResource.cache
+D:\My_Workspace\WinForms\WindowsFormsTest\obj\Debug\WindowsFormsTest.csproj.CoreCompileInputs.cache
+D:\My_Workspace\WinForms\WindowsFormsTest\bin\Debug\WindowsFormsTest.exe.config
+D:\My_Workspace\WinForms\WindowsFormsTest\bin\Debug\WindowsFormsTest.exe
+D:\My_Workspace\WinForms\WindowsFormsTest\bin\Debug\WindowsFormsTest.pdb
+D:\My_Workspace\WinForms\WindowsFormsTest\obj\Debug\WindowsFormsTest.exe
+D:\My_Workspace\WinForms\WindowsFormsTest\obj\Debug\WindowsFormsTest.pdb
+D:\My_Workspace\WinForms\WindowsFormsTest\obj\Debug\WindowsFormsTest.exe.config
