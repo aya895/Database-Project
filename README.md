@@ -7,7 +7,7 @@ A relational database system for managing hotel reservations, guests, suites, co
 
 ### CRUD Operations
 
-Each of the 7 tables supports full **Create, Read, Update, and Delete** operations. The form dynamically reconfigures its input fields based on the selected table.
+Each of the 7 tables supports full **Create, Update, and Delete** operations. The form dynamically reconfigures its input fields based on the selected table.
 
 - **Insert** — Add new records with parameterized input fields
 - **Update** — Edit existing records by entering the ID and updated values
@@ -53,7 +53,7 @@ The database contains 7 normalized tables connected through primary and foreign 
 
 - **HOTEL → SUITE** — one hotel has many suites
 - **GUEST → RESERVATION** — one guest has many reservations
-- **SUITE → RESERVATION** — one suite appears in many reservations
+- **SUITE → RESERVATION** — many-to-many via is_booked
 - **CONCIERGE → EXPERIENCE** — one concierge manages many experiences
 - **RESERVATION ✕ EXPERIENCE** — many-to-many via RESERVATION_EXPERIENCE
 
@@ -82,5 +82,3 @@ The database contains 7 normalized tables connected through primary and foreign 
 - **Mayada Ahmed Hilmy**
 - **Nada Mahmoud Morad**
 - **Aya Safwat Kamel**
-
----
